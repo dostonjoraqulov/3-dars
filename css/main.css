@@ -1,0 +1,120 @@
+*{
+  box-sizing: border-box;
+}
+
+.container{
+	background-color: darkorange;
+	height: 800px;
+}
+
+.logojon{
+  display: flex;
+	justify-content: space-around;
+}
+
+.logo a{
+  display: flex;
+	width: 120px;
+	height: 120px;
+}
+
+.nom h1{
+	display: flex;
+  font-size: 22px;
+}
+
+.nom{
+	display: flex;
+	margin: 45px 0px 0px -200px;
+}
+
+.navbar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+li{
+	list-style: none;
+}
+
+.kurgazma{
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-sta-10;
+}
+
+.non a{
+	display: flex;
+	width: -100px;
+	height: 250px;
+}
+
+.qaymoq a{
+	display: flex;
+	width: -100px;
+	height: 250px;
+}
+
+.kofi a{
+	display: flex;
+	width: -100px;
+	height: 250px;
+}
+
+.sut a{
+	display: flex;
+	width: -100px;
+	height: 250px;
+}
+
+.non1{
+	margin: 10px;
+}
+
+.non1 label{
+	display: flex;
+	font-size: 30px;
+}
+
+.qaymoq1{
+	margin: -65px 0px 0px 420px;
+}
+
+.qaymoq1 label{
+	display: flex;
+	font-size: 30px;
+}
+
+.kofi1{
+  margin: -55px 0px 0px 828px;
+}
+
+.kofi1 label{
+  display: flex;
+	font-size: 30px;
+}
+
+.sut1{
+  margin: -53px 0px 0px 1232px;
+}
+
+.sut1 label{
+	display: flex;
+	font-size: 30px;
+}
+
+.tugma{
+	display: flex;
+	width: 200px;
+	height: 50px;
+	background-color: rgb(255, 0, 0);
+	border-radius: 30px;
+	justify-content: center;
+	align-items: center;
+	margin: 90px 0px 0px 700px;
+}
+
+.tugma a{
+	display: flex;
+}
